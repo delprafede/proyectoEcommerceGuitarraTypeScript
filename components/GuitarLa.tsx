@@ -37,7 +37,7 @@ const GuitarLa = ({ guitarras, addToCart }: GuitarLaProps) => {
                     addToCart(guitarra);
                   }}
                 >
-                  Agregar al Carrito
+                  Agregar al Carritoo
                 </button>
               </div>
             </div>
